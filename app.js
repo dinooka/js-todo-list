@@ -64,3 +64,4 @@ search.addEventListener('keydown', e => {
 
 // Improvements
 // 1. add clear fields for search & Add to dos
+// 2. Edit to dos
