@@ -1,0 +1,29 @@
+body{
+  /* background: #352f5b; */
+  background: #4e9da5;
+  /* background-image: image-set(imge-1); */
+      /* background-image: url('planner.jpg');
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover; */
+}
+.container{
+  max-width: 400px;
+}
+input[type=text],
+input[type=text]:focus{
+  color: #0a0a0a;
+  border: none;
+  background: rgba(165, 164, 164, 0.975);
+  max-width: 400px;
+}
+.todos li{
+  /* background: #8ab688; */
+  background: rgb(232, 78, 23);
+}
+.delete{
+  cursor: pointer;
+}
+.filtered{
+  display: none !important;
+}
